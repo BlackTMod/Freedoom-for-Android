@@ -13,19 +13,13 @@ Due to the deprecation of the build tools for this app, I have stopped active de
 While this app will remain free and highly functional for most users, please also check out Beloko's 'DeltaTouch' as an alternative.
 
 
-### Help translate!
-https://www.transifex.com/krupczakorg/freedoom-gzdoom/dashboard/
-
-
-## Download
+## Download original app
 Play store link of the original app:
 https://play.google.com/store/apps/details?id=net.nullsum.freedoom
 
-APK release:
+original APP release:
 https://github.com/mkrupczak3/GZDoom-Android/releases
 
-Ember's Unofficial F-Droid Repo:
-https://fdroid.heartshine.xyz/
 
 (I have not verified this repo myself for security. At the time of writing, my latest release [v0.4.3] should have a [sha256](https://en.wikipedia.org/wiki/SHA-2) hash of [43c94079d78ed2dffb90e521ffcc74364706fb8e334ba55f15b43168450625c6](https://twitter.com/Matts_Bytes/status/1273065495961513985?s=20))
 
