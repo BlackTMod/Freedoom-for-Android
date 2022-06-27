@@ -1,4 +1,4 @@
-# Freedoom for Android
+# SDoom for Android
 <img src="icon.png" width="200" hspace="10" vspace="10"></br>
 
 A fork of nvllsvm's GZDoom-Android port.
@@ -19,7 +19,7 @@ https://www.transifex.com/krupczakorg/freedoom-gzdoom/dashboard/
 
 
 ## Download
-Play store link:
+Play store link of the original app:
 https://play.google.com/store/apps/details?id=net.nullsum.freedoom
 
 APK release:
